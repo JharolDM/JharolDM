@@ -11,7 +11,7 @@
 
 ## Proyectos destacados
 - Foods Henry https://github.com/JharolDM/pifoodjharol: Un sitio web para poder buscar, crear las recetas que desees usando la api de spoonacular.
-- Envmate: Un sitio o mas bien dicho un servicio para poder actualizar tus variables de entorno en un espacio de trabajo sin necesidad de pedirselas a tu compañero.
+- Envmate prácticas Rhinolabs 
 
 ## Contribuciones
 Soy un entusiasta del código abierto y me encanta colaborar en proyectos de mis compañeros. He contribuido a varios proyectos de Henry y siempre estoy buscando nuevas formas de aportar a la comunidad de desarrollo.
